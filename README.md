@@ -12,7 +12,6 @@ Exploratory Data Analysis projects completed during Week 1-2 of the AnalystLab A
 ### 2. Titanic Dataset
 - Full EDA pipeline: missing value handling, IQR outlier treatment
 - Categorical encoding (LabelEncoder vs get_dummies)
-- Feature engineering (FamilySize, IsAlone, Title, AgeGroup, Deck)
 - Feature scaling (StandardScaler vs MinMaxScaler)
 - Bivariate survival analysis
 - Files: `TitanicAnalystlab.ipynb`, `TITANIC_CLEANED.csv`, `TITANIC_AnalystlabAfrica_report.pdf`
