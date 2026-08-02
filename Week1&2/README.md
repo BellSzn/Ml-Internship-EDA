@@ -1,4 +1,4 @@
-# ML Internship EDA Projects
+# Week 1&2 Data Preprocessing & Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis projects completed during Week 1-2 of the AnalystLab Africa ML Internship (July-Sept 2026).
 
